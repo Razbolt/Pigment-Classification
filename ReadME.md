@@ -30,8 +30,9 @@ The data pre-processing steps include:
 - Python 3.x, TensorFlow, scikit-learn, imbalanced-learn, OpenCV, NumPy, Pandas, Matplotlib, seaborn
 
 ## Installation
-```bash
-pip install tensorflow scikit-learn imbalanced-learn opencv-python numpy pandas matplotlib seaborn
+
+pip installtensorflowscikit-learnimbalanced-learnopencv-python numpy pandas matplotlib seaborn
+
 
 ## Usage
 1. Clone the repository and navigate to the project directory.
